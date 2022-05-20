@@ -1,0 +1,113 @@
+.box1{
+    height:80px;
+    width: 100%;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.box2{
+    margin: auto;
+    padding-left: 200px;
+    padding-bottom: 10px;
+}
+.a{
+    border-color: lightseagreen;
+    border-style: solid;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+    height: 150px;
+}
+.b{
+    border-color: lightseagreen;
+    border-style: dashed;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+    height: 150px;
+}
+.c{
+    border-color: lightseagreen;
+    border-style: dotted;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+    height: 150px;
+}
+.d{
+    border-color: lightseagreen;
+    border-style: groove;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 300px;
+    box-shadow: 10px 10px 10px black;
+    height: 150px;
+}
+.e{
+    border-color: lightseagreen;
+    border-style: ridge;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+    height: 150px;
+}
+.f{
+    border-color: lightseagreen;
+    border-style:double;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 300px;
+    box-shadow: 10px 10px 10px black;
+    height: 150px;
+}
+.g{
+    margin-top: 60px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+    height: 150px;
+}
+.box3{
+    height:300px;
+    width: 1000px;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    margin: 50px auto;
+    border-top-color: green;
+    border-bottom-color: blue;
+    border-left-color: red;
+    border-right-color: violet;
+    border-style: solid;
+    border-width: 10px;
+
+}
+.box4{
+    background-color: lightseagreen;
+    color: white;
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+}
+.h{
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+    
+    font-family: sans-serif;
+}
+a:hover{
+    color: blue;
+} 
